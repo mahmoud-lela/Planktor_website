@@ -325,10 +325,12 @@ img {
 /* Left Text */
 .contact-text h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 42px;
   font-weight: 700;
   color: #fff;
   margin-bottom: 1rem;
+  border-bottom: 3px solid rgb(22, 112, 202);
+    width: 250px;
 }
 
 .contact-text p {
@@ -369,7 +371,6 @@ img {
 .contact-form textarea:focus {
   border-color: #3d9cff;
   outline: none;
-  box-shadow: 0 0 8px rgba(61,156,255,0.4);
 }
 
 
